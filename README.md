@@ -1,32 +1,27 @@
-# Emdees
-Collection of useful files for new repository's scaffolding.
+# Three
+An extensible i3 configuration.
 
 ## Contents
 - [Installation](#installation)
 - [Usage](#usage)
-- [Resources](#resources)
 - [Contributing](#contributing)
 - [Support](#support)
 - [License](#license)
 
 ## Installation
-Follow the steps below to make use of Emdees.
+Follow the steps below to make use of Three.
 
 Clone this repository:
 ```bash
-git clone https://github.com/airscripts/emdees.git
+git clone https://github.com/airscripts/three.git
 ```
 
 ## Usage
-In order to use this project, just click the use as template in the repository's page.
-
-## Resources
-Here you can list some useful resources about this project:
-- [GitHub Page](https://ghio.airscript.it/emdees): project's GitHub page.
+In order to use this project, just copy the configurations and edit them as you wish.
 
 ## Contributing
 Contributions and suggestions about how to improve this project are welcome!
-Please follow [our contribution guidelines](https://github.com/airscripts/emdees/blob/main/CONTRIBUTING.md).
+Please follow [our contribution guidelines](https://github.com/airscripts/three/blob/main/CONTRIBUTING.md).
 
 ## Support
 If you want to support my work you can do it by following me, leaving a star, sharing my projects or also donating at the links below.  
@@ -40,4 +35,4 @@ Choose what you find more suitable for you:
 </a>
 
 ## License  
-This repository is licensed under [GPL-3.0 License](https://github.com/airscripts/emdees/blob/main/LICENSE).
+This repository is licensed under [GPL-3.0 License](https://github.com/airscripts/three/blob/main/LICENSE).
